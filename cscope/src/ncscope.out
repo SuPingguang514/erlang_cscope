@@ -1,0 +1,200 @@
+cscope 15 $HOME/dev_repo/cscope/src               0000000000
+	@alloc.c
+
+35 
+	~"Æloc.h
+"
+
+37 
+	~<°dio.h
+>
+
+38 
+	~<°rög.h
+>
+
+40 
+	~"globÆ.h
+"
+
+42 *
+Ælo˘e°
+(*
+p
+);
+
+46 #i‡
+STDC_HEADERS
+
+
+47 
+	~<°dlib.h
+>
+
+49 *
+ˇŒoc
+(), *
+mÆloc
+(), *
+ªÆloc
+(), *
+°r˝y
+();
+
+54 *
+	$my_°rdup
+(*
+s
+Ë{  (
+	`°r˝y
+(
+	`mymÆloc
+(
+	`°æí
+(sË+ 1), s)); 
+	}
+}
+
+57 *
+	$mymÆloc
+(
+size_t
+ 
+size
+Ë{  (
+	`Ælo˘e°
+(
+	`mÆloc
+(size))); 
+	}
+}
+
+60 *
+	$myˇŒoc
+(
+size_t
+ 
+√Àm
+, size_à
+size
+) {
+
+61  (
+	`Ælo˘e°
+(
+	`ˇŒoc
+(
+√Àm
+, 
+size
+)));
+
+62 
+	}
+}
+
+65 *
+	$myªÆloc
+(*
+p
+, 
+size_t
+ 
+size
+Ë{  (
+	`Ælo˘e°
+(
+	`ªÆloc
+’, size))); 
+	}
+}
+
+68 *
+	$Ælo˘e°
+(*
+p
+) {
+
+69 i‡(
+p
+ =
+NULL
+) {
+
+70 
+	`po°Áèl
+("\n%s: ouào‡°‹age\n", 
+¨gv0
+);
+
+73  (
+p
+);
+
+74 
+	}
+}
+
+	@alloc.h
+
+33 #i‚de‡
+CSCOPE_ALLOC_H
+
+
+34 
+	#CSCOPE_ALLOC_H
+
+
+	)
+
+36 
+	~<°rög.h
+>
+
+39 *
+myˇŒoc
+(
+size_t
+ 
+√Àm
+, size_à
+size
+);
+
+40 *
+mymÆloc
+(
+size_t
+ 
+size
+);
+
+41 *
+myªÆloc
+(*
+p
+, 
+size_t
+ 
+size
+);
+
+42 *
+my_°rdup
+(*
+s
+);
+
+	@basename.c
+
+35 
+	~"globÆ.h
+"
+
+37 *
+	$myba£«me
+(*
+∑th
+) {
+
+38 
